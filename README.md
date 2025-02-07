@@ -55,7 +55,9 @@ def partial_dependence(optimizer_snapshot, fixed_best_params, ticker_idx, w_valu
     """
     Analyzes the impact of a single stock weight on the optimization process.
     """
-5. How to Run This Project 🏃‍♂️
+```
+
+### 5. How to Run This Project 🏃‍♂️
 
 Prerequisites
 Ensure you have the following installed:
@@ -69,12 +71,14 @@ Run the Notebook
 Open Jupyter Notebook:
 jupyter notebook
 Navigate to Bayes_opt.ipynb and run all cells.
-6. Results & Insights 📈
+
+### 6. Results & Insights 📈
 
 The optimized portfolio consistently outperforms the random investor.
 Sharpe Ratio improvements indicate a better risk-adjusted return.
 Bayesian optimization enhances allocation efficiency, reducing risk exposure.
-7. Repository Structure 📂
+
+### 7. Repository Structure 📂
 
 │── Bayes_opt.ipynb      # Jupyter Notebook with implementation
 │── requirements.txt     # List of dependencies
@@ -82,7 +86,7 @@ Bayesian optimization enhances allocation efficiency, reducing risk exposure.
 │── results/             # Folder for storing output figures
 │── README.Rmd           # This documentation file
 
-8. License & Acknowledgements
+### 8. License & Acknowledgements
 
 This project is for educational purposes.
 Data sourced from Yahoo Finance (yfinance).
