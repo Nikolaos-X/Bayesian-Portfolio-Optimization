@@ -81,9 +81,13 @@ Bayesian optimization enhances allocation efficiency, reducing risk exposure.
 ### 7. Repository Structure 📂
 
 │── Bayes_opt.ipynb      # Jupyter Notebook with implementation
+
 │── requirements.txt     # List of dependencies
+
 │── data/                # Folder containing stock price datasets
+
 │── results/             # Folder for storing output figures
+
 │── README.Rmd           # This documentation file
 
 ### 8. License & Acknowledgements
