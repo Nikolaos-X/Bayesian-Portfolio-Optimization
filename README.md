@@ -97,5 +97,6 @@ Data sourced from Yahoo Finance (yfinance).
 
 🚀 Happy Investing & Portfolio Optimization! 🚀
 
-However, this is no financial advice and everything you do with it, that's on your own! : ) 
+
+# THIS IS NO FINANCIAL ADVICE I GIVE YOU; FOR EDUCATIONAL PURPOSES ONLY!
 
